@@ -11,3 +11,7 @@ Pingu is a famous nice little penguin living in the Antarctic. His family, like 
 * Best friend: Robby the seal
 * Teacher and schoolmaster: Mr. Peng-Chips 
 * Love interest: Pingi
+
+## A famous quote of Pingu
+
+> Nug Nug!
