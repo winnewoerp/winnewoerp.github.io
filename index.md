@@ -1,6 +1,6 @@
 # Pingu
 
-Pingu is a famous nice little penguin living in the Antarctic. His family, like all families nearby, live and work in igloos. Pingu frequently goes on adventures with his little sister, Pinga, and often gets into mischief with his best friend, Robby the Seal.
+Pingu is a famous nice little penguin living in the Antarctic. His family, like all families nearby, lives and works in igloos. Pingu frequently goes on adventures with his little sister, Pinga, and often gets into mischief with his best friend, Robby the Seal.
 
 ## Some facts about Pingu 
 
