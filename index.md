@@ -15,3 +15,9 @@ Pingu is a famous nice little penguin living in the Antarctic. His family, like 
 ## A famous quote of Pingu
 
 > Nug Nug!
+
+## A picture of Pingu (?)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Falkland_Islands_Penguins_36.jpg" />
+
+It seems that Pingu doesn't want to be shown here (I searched a lot for CC images and didn't find any on Wikipedia.org, which is an indicator for me that thre is a strong copyright on showing original images). So this picture only shows what he looks like in an approximate way. Picture License: https://creativecommons.org/licenses/by/2.0/. Source: https://commons.wikimedia.org/wiki/File:Falkland_Islands_Penguins_36.jpg
